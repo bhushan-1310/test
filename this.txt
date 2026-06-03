@@ -1,4 +1,9 @@
-this is new file from cloud git
+def emp(emp_id, emp_name):
+	print("Employee ID:", emp_id)
+	print("Employee Name:", emp_name)
+
+emp(101, "John Doe")
+emp("John Doe", 12345)  # captured by positionthis is new file from cloud git
 # 7) Lambda (anonymous)
 
 <aside>
@@ -13,3 +18,15 @@ flowchart LR
 	A[Caller code] -->|call: fun(10)| B[Function frame: fun(a)]
 	B -->|a = 10| C[Execute body]
 	C -->|return value| A
+
+
+
+
+
+
+def emp(emp_id, emp_name):
+	print("Employee ID:", emp_id)
+	print("Employee Name:", emp_name)
+
+emp(101, "John Doe")
+emp("John Doe", 12345)  # captured by position
