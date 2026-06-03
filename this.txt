@@ -7,3 +7,9 @@ this is new file from cloud git
 If you **redefine the same name**, Python keeps only the **latest** definition.
 
 </aside>
+
+
+flowchart LR
+	A[Caller code] -->|call: fun(10)| B[Function frame: fun(a)]
+	B -->|a = 10| C[Execute body]
+	C -->|return value| A
