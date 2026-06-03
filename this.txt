@@ -1,1 +1,9 @@
 this is new file from cloud git
+# 7) Lambda (anonymous)
+
+<aside>
+🧠
+
+If you **redefine the same name**, Python keeps only the **latest** definition.
+
+</aside>
