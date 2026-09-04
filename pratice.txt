@@ -1,1 +1,11 @@
 pratice is going on
+
+
+ 
+TZA Card	Withdrawal	000040469019	Approved	30/8/2026
+TZA Card	Withdrawal, reversal	000040469021	Approved	30/8/2026
+TZA Card	ATM Intl - Mastercard Withdrawal	000040469033	Approved	30/8/2026
+TZA Card	ATM Intl - Mastercard Withdrawal, Reversal	000040469034	Approved	30/8/2026
+USD Card	Mastercard Balance Enquiry, Intl	000040469038	Approved	30/8/2026
+USD Card	Mastercard Balance Enquiry	000040469039	Approved	30/8/2026
+ 
